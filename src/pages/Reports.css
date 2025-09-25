@@ -1,0 +1,16 @@
+.reports table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.reports th,
+.reports td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.reports th {
+  background: #1976d2;
+  color: white;
+}

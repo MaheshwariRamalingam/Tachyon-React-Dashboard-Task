@@ -1,0 +1,7 @@
+{
+  "metrics": [
+    { "name": "Users", "value": 1200 },
+    { "name": "Sales", "value": 340 },
+    { "name": "Revenue", "value": "$12,500" }
+  ]
+}
